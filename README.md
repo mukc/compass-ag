@@ -15,10 +15,11 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Functionality
-* User can  enter the Pesticide ingredient name in the search section, the results will be displayed in a table
+* User can enter the Pesticide ingredient name in the search section and then click the 'Search' button or just press the 'Enter' key, results will be displayed in a table
 * User can sort and filter data in the table columns
-* A loading spinner will be displayed when app is fetching results
-* This web app is responsive 
+* A loading spinner will be displayed when the app is fetching results
+* User can export the data from the table to CSV/Excel formats
+* This is a responsive web app 
 
 ### `npm test`
 
